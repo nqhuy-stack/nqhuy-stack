@@ -12,7 +12,7 @@
     <img alt="Instagram" src="https://img.shields.io/badge/@nqh.08-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/nqhit?tab=repositories">
-    <img alt="GitHub Repos" src="https://badgen.net/github/repo-count/nqhit" />
+    <img alt="GitHub Repos" src="https://img.shields.io/badge/Repos-Visit-blue?style=flat&logo=github" />
   </a>
 </p>
 
