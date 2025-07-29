@@ -23,7 +23,7 @@ Tôi là một lập trình viên frontend đam mê xây dựng **giao diện hi
 
 ## 🚀 Giới thiệu nhanh
 
-- 🔭 **Dự án chính**: [Jinstore](https://github.com/nqhit/jinstore) – Hệ thống bán hàng đa nền tảng với real-time sync, giỏ hàng, thanh toán và quản lý sản phẩm.
+- 🔭 **Dự án chính**: [Jinstore] – Hệ thống bán hàng đa nền tảng với real-time sync, giỏ hàng, thanh toán và quản lý sản phẩm.
 - 🌱 **Đang học và áp dụng**:
   - **Redux Toolkit**, **Zustand** – State Management tối ưu hiệu năng.
   - **React Query** – Xử lý dữ liệu bất đồng bộ.
